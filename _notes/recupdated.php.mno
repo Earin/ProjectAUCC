@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_updaterec" value="name:Member_ID;datatype:int,name:First Name;datatype:string,name:Other Names;datatype:string,name:Last Name;datatype:string,name:Gender;datatype:blob,name:DOB;datatype:date,name:Town_City;datatype:string,name:Region;datatype:string,name:Email;datatype:string,name:Mobile;datatype:int,name:Address;datatype:string,name:Picture;datatype:string,name:Program_Read;datatype:string,name:College;datatype:string,name:Faculty;datatype:string,name:Department;datatype:string,name:Admin_yr;datatype:date,name:Grad_yr;datatype:date" />
+</info>
